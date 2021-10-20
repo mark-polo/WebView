@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="enter">Enter url https://example.com</string>
+    <string name="gobtn">Go</string>
+</resources>
